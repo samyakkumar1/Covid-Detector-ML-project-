@@ -1,0 +1,16 @@
+*{
+    margin:0px;
+    padding: 0px;   
+}
+
+.heading{
+    text-align: center;
+    color: blue;
+}
+
+.form{
+    max-width: 800px;
+    margin: auto;
+    margin-top: 17px;
+
+}
